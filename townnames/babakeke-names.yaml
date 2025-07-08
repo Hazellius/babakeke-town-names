@@ -3,12 +3,12 @@ id: 0
 mainset:
 - names:
   - name: Baba
-    probability: 4
+    probability: 20
   - name: Keke
-    probability: 4
+    probability: 20
 - names:
   - name: Keke
-    probability: 2
+    probability: 4
   - name: ville
     probability: 3
   - name: rella
@@ -16,6 +16,16 @@ mainset:
   - name: rino
     probability: 4
   - name: Baba
+    probability: 2
+  - name: ra Anne
+    probability: 1
+  - name: lo Kantos
+    probability: 1
+  - name: ba
+    probability: 1
+  - name: ke
+    probability: 1
+  - name: ' '
     probability: 1
 - names:
   - name: ' Township'
@@ -25,7 +35,9 @@ mainset:
   - name: ville
     probability: 1
   - name: ' '
-    probability: 2
+    probability: 4
+  - name: ' Town'
+    probability: 1
 name: BabaKeke Names
 source: null
 subsets:
@@ -78,4 +90,185 @@ subsets:
     - name: Kantos
       probability: 1
     - name: Koontos
+      probability: 1
+- name: Grocery Store
+  parts:
+  - names:
+    - name: Whole
+      probability: 1
+  - names:
+    - name: Ass
+      probability: 1
+    - name: Entire
+      probability: 1
+    - name: ' '
+      probability: 4
+  - names:
+    - name: Foods
+      probability: 1
+    - name: Paycheck
+      probability: 1
+- name: Costco
+  parts:
+  - names:
+    - name: Cost
+      probability: 1
+  - names:
+    - name: co
+      probability: 1
+    - name: ing co
+      probability: 1
+    - name: ing company
+      probability: 1
+- name: Coffee Names
+  parts:
+  - names:
+    - name: Cold
+      probability: 1
+    - name: Bitches
+      probability: 1
+    - name: Nitro Cold
+      probability: 1
+    - name: Organic Cold
+      probability: 1
+  - names:
+    - name: brew
+      probability: 1
+  - names:
+    - name: ' '
+      probability: 20
+    - name: ' Cofefe'
+      probability: 1
+    - name: ' Coffee'
+      probability: 4
+- name: Fixed Names
+  parts:
+  - names:
+    - name: Samosa
+      probability: 1
+    - name: Croque Monsieur
+      probability: 1
+    - name: Sushi
+      probability: 1
+    - name: Fitler
+      probability: 1
+    - name: ':3'
+      probability: 1
+    - name: Cuddles
+      probability: 1
+    - name: Bunshop
+      probability: 1
+    - name: Balty
+      probability: 1
+    - name: Rosslyn
+      probability: 1
+    - name: Dublin
+      probability: 1
+    - name: Boston
+      probability: 1
+    - name: Bostonium
+      probability: 1
+    - name: DC
+      probability: 1
+    - name: Ulysses
+      probability: 1
+    - name: Gym
+      probability: 1
+    - name: Jim
+      probability: 1
+    - name: Second Cousin
+      probability: 1
+    - name: Oakland
+      probability: 1
+    - name: Atlas
+      probability: 1
+    - name: Alamo Drafthouse
+      probability: 1
+    - name: Magnets Will Never Betray Me
+      probability: 1
+    - name: Waikaloa
+      probability: 1
+    - name: TylerandKaelin
+      probability: 1
+- name: Plen
+  parts:
+  - names:
+    - name: Plen
+      probability: 1
+    - name: Plane
+      probability: 1
+    - name: Plaaaaaane
+      probability: 1
+    - name: Big Jets
+      probability: 1
+    - name: Flat Bed
+      probability: 1
+    - name: Flag Tail
+      probability: 1
+    - name: Lie Flat
+      probability: 1
+  - names:
+    - name: ' In The Sky'
+      probability: 1
+    - name: ' '
+      probability: 10
+    - name: ' City'
+      probability: 4
+    - name: ' Town'
+      probability: 4
+    - name: ' Township'
+      probability: 4
+    - name: ville
+      probability: 4
+- name: Profane
+  parts:
+  - names:
+    - name: Fuck
+      probability: 1
+    - name: Screw
+      probability: 1
+  - names:
+    - name: ' Me'
+      probability: 1
+    - name: ' You'
+      probability: 1
+    - name: ' All of Us'
+      probability: 1
+    - name: ' Everything'
+      probability: 1
+    - name: ' This'
+      probability: 1
+- name: Naked
+  parts:
+  - names:
+    - name: Naked
+      probability: 1
+    - name: Strip
+      probability: 1
+  - names:
+    - name: ' Hangout'
+      probability: 1
+    - name: Games
+      probability: 1
+    - name: ' Poker'
+      probability: 1
+    - name: Jenga
+      probability: 1
+    - name: ' Hang'
+      probability: 1
+- name: Turtles
+  parts:
+  - names:
+    - name: Sea
+      probability: 1
+    - name: Box
+      probability: 1
+    - name: Baby
+      probability: 1
+    - name: Tiny
+      probability: 1
+    - name: ' '
+      probability: 1
+  - names:
+    - name: Turtle
       probability: 1

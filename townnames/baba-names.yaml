@@ -1,0 +1,18 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Baba
+    probability: 4
+- names:
+  - name: Keke
+    probability: 2
+  - name: ville
+    probability: 3
+  - name: rella
+    probability: 4
+  - name: rino
+    probability: 4
+name: Baba Names
+source: null
+subsets: []

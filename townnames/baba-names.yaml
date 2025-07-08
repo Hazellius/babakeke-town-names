@@ -15,4 +15,52 @@ mainset:
     probability: 4
 name: Baba Names
 source: null
-subsets: []
+subsets:
+- name: Bag Names
+  parts:
+  - names:
+    - name: Bag
+      probability: 1
+  - names:
+    - name: atha
+      probability: 1
+    - name: elio Kantos
+      probability: 1
+    - name: arella
+      probability: 1
+    - name: el
+      probability: 1
+    - name: arino
+      probability: 1
+- name: Mug Names
+  parts:
+  - names:
+    - name: Pu
+      probability: 1
+    - name: Face
+      probability: 1
+    - name: Octo
+      probability: 1
+    - name: Squid
+      probability: 1
+    - name: Owl
+      probability: 1
+    - name: Skull
+      probability: 1
+    - name: Bao
+      probability: 1
+  - names:
+    - name: mug
+      probability: 1
+- name: Steelio Names
+  parts:
+  - names:
+    - name: Steelio
+      probability: 1
+    - name: Stoololo
+      probability: 1
+  - names:
+    - name: Kantos
+      probability: 1
+    - name: Koontos
+      probability: 1
